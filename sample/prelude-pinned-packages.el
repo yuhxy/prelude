@@ -1,5 +1,6 @@
 (add-to-list 'package-archives
-             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
+;;             '("melpa-stable" . "https://stable.melpa.org/packages/") t)
+             '("melpa-stable" . "http://elpa.emacs-china.org/melpa-stable/") t)
 
 (setq package-pinned-packages
       '(
